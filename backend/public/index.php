@@ -61,7 +61,7 @@ if (! defined('ENVIRONMENT')) {
  * The CodeIgniter class contains the core functionality to make
  * the application run, and does all the dirty work to get
  * the pieces all working together.
- */
+ */ 
 header('Access-Control-Allow-Origin: *');
 header("Access-Control-Allow-Headers: X-API-KEY, Origin, X-Requested-With, 
 Content-Type, Accept, Access-Control-Request-Method");
